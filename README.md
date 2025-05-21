@@ -1,6 +1,6 @@
 ![logo](https://github.com/Utsavvvvvvv/Utsavvvvvvv/blob/main/abcpef5ajpfe1.gif)
 <h1 align="center">Hi 👋, I'm Utsav Verma</h1>
-<h3 align="center">A passionate Backend Developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 <img  align="right" alt="coding" width="500" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utsavvvvvvv&label=Profile%20views&color=0e75b6&style=flat" alt="utsavvvvvvv" /> </p>
