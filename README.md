@@ -1,4 +1,4 @@
-![logo](https://github.com/Utsavvvvvvv/Utsavvvvvvv/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif](https://github.com/Utsavvvvvvv/Utsavvvvvvv/blob/main/1734903812596.jpeg))
+![logo](https://github.com/Utsavvvvvvv/Utsavvvvvvv/blob/main/1734903812596.jpeg))
 <h1 align="center">Hi 👋, I'm Utsav Verma</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
