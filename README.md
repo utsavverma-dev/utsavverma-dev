@@ -1,4 +1,4 @@
-![logo](https://github.com/Utsavvvvvvv/Utsavvvvvvv/blob/main/1734903812596.jpeg))
+![logo](https://github.com/Utsavvvvvvv/Utsavvvvvvv/blob/main/abcpef5ajpfe1.gif)
 <h1 align="center">Hi 👋, I'm Utsav Verma</h1>
 <h3 align="center">A passionate Backend Developer from India</h3>
 <img  align="right" alt="coding" width="500" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
